@@ -1,8 +1,6 @@
 #Privacy Policy of Top-Secret-Diary
 
 
-<b>Privacy Policy of QR-Barcode-Reader</b>
-
 <b>1. Camera</b>
 
 Camera is needed when user create notes & add photos in Notes.
